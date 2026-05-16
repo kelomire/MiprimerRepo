@@ -1,0 +1,15 @@
+C:\Users\Not-\Hola\bin\Debug\net8.0\Hola.exe
+C:\Users\Not-\Hola\bin\Debug\net8.0\Hola.deps.json
+C:\Users\Not-\Hola\bin\Debug\net8.0\Hola.runtimeconfig.json
+C:\Users\Not-\Hola\bin\Debug\net8.0\Hola.dll
+C:\Users\Not-\Hola\bin\Debug\net8.0\Hola.pdb
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.AssemblyInfoInputs.cache
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.AssemblyInfo.cs
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.csproj.CoreCompileInputs.cache
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.sourcelink.json
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.dll
+C:\Users\Not-\Hola\obj\Debug\net8.0\refint\Hola.dll
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.pdb
+C:\Users\Not-\Hola\obj\Debug\net8.0\Hola.genruntimeconfig.cache
+C:\Users\Not-\Hola\obj\Debug\net8.0\ref\Hola.dll
